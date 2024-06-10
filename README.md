@@ -2,7 +2,7 @@
 
 I'm an experienced data scientist with a proven track record of leveraging data for business growth.
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow)
 
 ## Summary
 - Over six years of hands-on experience in analytics and data science.
