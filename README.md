@@ -35,4 +35,4 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 - Facilitated training sessions on data science and personal development.
 - Provided personalized coaching and feedback.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&show_icons=true&theme=transparent)
