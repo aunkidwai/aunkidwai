@@ -5,7 +5,6 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 [![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue) [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
 
 ## About Me
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - Over six years of hands-on experience in analytics and data science.
 - Specialized in predictive modeling, machine learning, and data visualization.
 - Proven track record of leveraging data for business growth.
