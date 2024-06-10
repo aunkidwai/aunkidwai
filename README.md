@@ -11,7 +11,6 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 - Committed to high standards of data quality and integrity.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunkidwai&layout=compact&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aunkidwai&repo=github-readme-stats)](https://github.com/aunkidwai/github-readme-stats)
 
 ## Publications
 - Review of Machine Learning in Mechanical Devices: Current Scenario and Future Aspects, Review Paper (COTII - 2020)
