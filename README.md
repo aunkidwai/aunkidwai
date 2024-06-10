@@ -4,8 +4,6 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 
 [![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue) [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&show_icons=true&theme=radical)
-
 ## About Me
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - Over six years of hands-on experience in analytics and data science.
@@ -35,3 +33,5 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 ### Eagletfly Solutions & Softpro India (Jan 2023 – Jul 2023)
 - Facilitated training sessions on data science and personal development.
 - Provided personalized coaching and feedback.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&show_icons=true&theme=radical)
