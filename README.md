@@ -4,13 +4,13 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 
 [![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue) [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&show_icons=true&theme=transparent) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunkidwai&layout=compact&theme=radical)
+
 ## About Me
 - Over six years of hands-on experience in analytics and data science.
 - Specialized in predictive modeling, machine learning, and data visualization.
 - Proven track record of leveraging data for business growth.
 - Committed to high standards of data quality and integrity.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunkidwai&layout=compact&theme=radical)
 
 ## Publications
 - Review of Machine Learning in Mechanical Devices: Current Scenario and Future Aspects, Review Paper (COTII - 2020)
@@ -34,5 +34,3 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 ### Eagletfly Solutions & Softpro India (Jan 2023 – Jul 2023)
 - Facilitated training sessions on data science and personal development.
 - Provided personalized coaching and feedback.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&show_icons=true&theme=transparent)
