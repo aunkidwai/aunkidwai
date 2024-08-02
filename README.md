@@ -14,6 +14,7 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 
 ## Publications
 - Review of Machine Learning in Mechanical Devices: Current Scenario and Future Aspects, Review Paper (COTII - 2020)
+- UniParseAI: A Unified Approach to Advanced SQL and NoSQL Query Parsing and Manipulation Boosted by AI Capabilities, Research (ICASET 2024)
 
 ## Workshops & Lectures
 ### Indian Institute of Technology, Kanpur (Mar 2023)
