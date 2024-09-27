@@ -6,7 +6,6 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aunkidwai&layout=compact&theme=dracula) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aunkidwai&hide=issues,contribs&show_icons=true&layout=compact&theme=dracula) 
 
-theme=transparent
 ## About Me
 - Over six years of hands-on experience in analytics and data science.
 - Specialized in predictive modeling, machine learning, and data visualization.
