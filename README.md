@@ -80,7 +80,7 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 ---
 
 ## Connect With Me  
-I’m always open to collaboration and discussion on AI, data science, or innovative projects.  <br>
+I’m always open to collaboration and discussion on AI, data science, or innovative projects.  <br><br>
 [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-aunkidwai-blue)](https://www.linkedin.com/in/aunkidwai/) [![Website](https://img.shields.io/badge/Website-https://aunkidwai.com-brightgreen)](https://aunkidwai.com) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai)
 
 ![Location](https://img.shields.io/badge/Location-Lucknow_|_Noida,_India-lightblue)
