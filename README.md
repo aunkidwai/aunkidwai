@@ -1,7 +1,9 @@
 # Welcome to My GitHub Profile  
-### Aun Mohammad Kidwai – Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solution Architect
+### **Aun Mohammad Kidwai**
+Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solution Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aunkidwai-blue?logo=linkedin)](https://linkedin.com/in/aunkidwai) | [![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) | [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) | ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue) | [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) | [![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aunkidwai-blue?logo=linkedin)](https://linkedin.com/in/aunkidwai)[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/)[![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai)![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue)[![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com)[![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
+
 **Email:** aunkidwai@gmail.com | **Location:** Lucknow, India
 
 ---
@@ -87,7 +89,7 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 - **UniParse AI: A Unified Approach to Advanced SQL and NoSQL Query Parsing**  
   *International Conference on Advances in Science, Engineering, and Technology (ICASET)*
   ISBN: 9781041076483
-  [![Read Paper Here](https://img.shields.io/badge/Read Paper Here-UniParse AI-brightgreen)](https://www.routledge.com/Advances-in-Science-Engineering-and-Technology/Ahmed-Bajpai-Faisal-LataTripathi/p/book/9781041076483)
+  [![Paper](https://img.shields.io/badge/Paper-UniParse_AI-brightgreen)](https://www.routledge.com/Advances-in-Science-Engineering-and-Technology/Ahmed-Bajpai-Faisal-LataTripathi/p/book/9781041076483)
 
 ---
 
