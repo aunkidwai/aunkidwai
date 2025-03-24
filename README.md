@@ -63,8 +63,8 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 
 ## Publications  
 - **UniParse AI: A Unified Approach to Advanced SQL and NoSQL Query Parsing**  
-  *International Conference on Advances in Science, Engineering, and Technology (ICASET)*
-  *ISBN: 9781041076483*
+  *International Conference on Advances in Science, Engineering, and Technology (ICASET)*<br>
+  *ISBN: 9781041076483*<br>
   [![Paper](https://img.shields.io/badge/Paper-UniParse_AI-brightgreen)](https://www.routledge.com/Advances-in-Science-Engineering-and-Technology/Ahmed-Bajpai-Faisal-LataTripathi/p/book/9781041076483)
 
 ---
