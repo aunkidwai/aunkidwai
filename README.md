@@ -2,7 +2,7 @@
 ### **Aun Mohammad Kidwai**
 Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solution Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aunkidwai-blue?logo=linkedin)](https://linkedin.com/in/aunkidwai)[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/)[![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai)![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue)[![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com)[![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aunkidwai-blue?logo=linkedin)](https://linkedin.com/in/aunkidwai) [![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=blue) [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![Website](https://img.shields.io/badge/Website-aunkidwai.github.io-brightgreen)](https://aunkidwai.github.io)
 
 **Email:** aunkidwai@gmail.com | **Location:** Lucknow, India
 
@@ -16,22 +16,16 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 ---
 
 ## Skills  
-| **Category**                | **Details**                                                                                   |
-|-----------------------------|-----------------------------------------------------------------------------------------------|
-| **Machine Learning & AI**   | Supervised/Unsupervised Learning, Deep Learning, Reinforcement Learning, LLMs                |
-|                             | *Tools:* PyTorch, TensorFlow, Scikit-learn                                                   |
-| **Large Language Models**   | Design, fine-tuning, and deployment for text generation, summarization, and conversational AI |
-|                             | *Technologies:* OpenAI APIs, LLAMA, LangChain, RAG, Transformers                            |
-| **Natural Language Processing** | Text processing, sentiment analysis, topic modeling                                      |
-|                             | *Libraries:* Hugging Face, spaCy, NLTK                                                     |
-| **Data Engineering**        | ETL processes, SQL, Apache Spark, data pipelines                                            |
-|                             | *Tools:* Pandas, NumPy                                                                     |
-| **Cloud & MLOps**           | AWS, Docker, Kubernetes, CI/CD pipelines                                                   |
-| **Visualization & Analytics** | Dashboard creation and data insights                                                     |
-|                             | *Tools:* Tableau, Power BI, Matplotlib, Seaborn                                            |
-| **Programming**             | Python, R, SQL, Bash                                                                        |
-|                             | *Practices:* Git, Agile methodologies                                                      |
-| **Additional Expertise**    | Leadership, research, technical communication, continuous learning                         |
+| **Categories**                | **Details**                                                                                   | **Tools**                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Machine Learning & AI**     | Supervised/Unsupervised Learning, Deep Learning, Reinforcement Learning, LLMs                | PyTorch, TensorFlow, Scikit-learn                                         |
+| **Large Language Models**     | Design, fine-tuning, and deployment for text generation, summarization, and conversational AI | OpenAI APIs, LLAMA, LangChain, RAG, Transformers                         |
+| **Natural Language Processing** | Text processing, sentiment analysis, topic modeling                                        | Hugging Face, spaCy, NLTK                                                |
+| **Data Engineering**          | ETL processes, SQL, Apache Spark, data pipelines                                            | Pandas, NumPy, Apache Spark                                              |
+| **Cloud & MLOps**             | Cloud-based ML workflows, containerization, and automated deployment                        | AWS, Docker, Kubernetes, CI/CD pipelines                                 |
+| **Visualization & Analytics** | Dashboard creation and data insights                                                       | Tableau, Power BI, Matplotlib, Seaborn                                   |
+| **Programming**               | Development of scalable algorithms and workflows                                            | Python, R, SQL, Bash, Git                                                |
+| **Additional Expertise**      | Leadership, research, technical communication, continuous learning                         |                                                                          |
 
 ### Proficiency Badges  
 ![Python](https://img.shields.io/badge/Python-Expert-green)  
