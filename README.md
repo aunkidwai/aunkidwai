@@ -27,24 +27,6 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 | **Programming**               | Development of scalable algorithms and workflows                                            | Python, R, SQL, Bash, Git                                                |
 | **Additional Expertise**      | Leadership, research, technical communication, continuous learning                         |                                                                          |
 
-### Proficiency Badges  
-![Python](https://img.shields.io/badge/Python-Expert-green)  
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)  
-![NLP](https://img.shields.io/badge/NLP-Expert-green)  
-![AWS](https://img.shields.io/badge/AWS-Proficient-blue)  
-![Docker](https://img.shields.io/badge/Docker-Proficient-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-green)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-blue)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Expert-green)  
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-blue)  
-![AWS](https://img.shields.io/badge/AWS-Proficient-blue)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Proficient-blue)  
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-blue)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-blue)  
-![Spark](https://img.shields.io/badge/Apache%20Spark-Proficient-blue)  
-![Git](https://img.shields.io/badge/Git-Advanced-blue) 
-
 ---
 
 ## Professional Experience  
@@ -82,7 +64,7 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 ## Publications  
 - **UniParse AI: A Unified Approach to Advanced SQL and NoSQL Query Parsing**  
   *International Conference on Advances in Science, Engineering, and Technology (ICASET)*
-  ISBN: 9781041076483
+  *ISBN: 9781041076483*
   [![Paper](https://img.shields.io/badge/Paper-UniParse_AI-brightgreen)](https://www.routledge.com/Advances-in-Science-Engineering-and-Technology/Ahmed-Bajpai-Faisal-LataTripathi/p/book/9781041076483)
 
 ---
