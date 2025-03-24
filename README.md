@@ -48,12 +48,6 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 - **Masters of Computer Application** | Integral University, Lucknow | 2018 – 2020  
 - **Bachelors of Computer Application** | Integral University, Lucknow | 2013 – 2016  
 
-## Certifications  
-- Practical Multi AI Agents (crewAI)  
-- Machine Learning Specialization  
-- Natural Language Processing Specialization  
-- Data Engineering  
-
 ---
 
 ## Publications  
