@@ -4,7 +4,7 @@ Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solu
 
 [![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=yellow) [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![Website](https://img.shields.io/badge/Website-https://aunkidwai.com-brightgreen)](https://aunkidwai.com)
 
-![Location](https://img.shields.io/badge/Location-Lucknow,_India-blue) ![Location](https://img.shields.io/badge/Location-Noida,_India-blue)
+![Location](https://img.shields.io/badge/Location-Lucknow,_India-lightblue) ![Location](https://img.shields.io/badge/Location-Noida,_India-lightblue)
 
 ---
 
