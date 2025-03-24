@@ -79,4 +79,11 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 
 ### Eagletfly Solutions & Softpro India (Jan 2023 – Jul 2023)  
 - Facilitated training sessions on data science and personal development.  
-- Provided personalized coaching and feedback.  
+- Provided personalized coaching and feedback.    
+
+---
+
+## Connect With Me  
+I’m always open to collaboration and discussion on AI, data science, or innovative projects.  
+- **Email:** [aunkidwai@gmail.com](mailto:aunkidwai@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/aunkidwai](https://linkedin.com/in/aunkidwai)  
