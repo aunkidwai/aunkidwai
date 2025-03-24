@@ -14,7 +14,7 @@ I'm an experienced data scientist with a proven track record of leveraging data 
 
 ## Publications
 - Review of Machine Learning in Mechanical Devices: Current Scenario and Future Aspects, Review Paper (COTII - 2020)
-- UniParseAI: A Unified Approach to Advanced SQL and NoSQL Query Parsing and Manipulation Boosted by AI Capabilities, Research (ICASET 2024) ISBN: 9781041076483 [Book](https://www.routledge.com/Advances-in-Science-Engineering-and-Technology/Ahmed-Bajpai-Faisal-LataTripathi/p/book/9781041076483)
+- UniParseAI: A Unified Approach to Advanced SQL and NoSQL Query Parsing and Manipulation Boosted by AI Capabilities, Research (ICASET 2024) ISBN: 9781041076483 [-Paper-](https://www.routledge.com/Advances-in-Science-Engineering-and-Technology/Ahmed-Bajpai-Faisal-LataTripathi/p/book/9781041076483)
 
 ## Workshops & Lectures
 ### Indian Institute of Technology, Kanpur (Mar 2023)
