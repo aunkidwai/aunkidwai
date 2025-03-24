@@ -2,7 +2,7 @@
 ### **Aun Mohammad Kidwai**
 Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solution Architect
 
-[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/) [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=yellow) [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com) [![Website](https://img.shields.io/badge/Website-https://aunkidwai.com-brightgreen)](https://aunkidwai.com)
+[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=yellow)
 
 ![Location](https://img.shields.io/badge/Location-Lucknow_|_Noida,_India-lightblue)
 
@@ -85,5 +85,12 @@ With expertise in NLP, computer vision, data engineering, and MLOps, I specializ
 
 ## Connect With Me  
 I’m always open to collaboration and discussion on AI, data science, or innovative projects.  
-- **Email:** [aunkidwai@gmail.com](mailto:aunkidwai@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/aunkidwai](https://linkedin.com/in/aunkidwai)  
+- [![Email](https://img.shields.io/badge/Email-aunkidwai@gmail.com-red)](mailto:aunkidwai@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/)
+- [![Website](https://img.shields.io/badge/Website-https://aunkidwai.com-brightgreen)](https://aunkidwai.com)
+- [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai)
+
+---
+
+## Stats  
+[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=yellow)
