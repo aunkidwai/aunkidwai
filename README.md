@@ -1,5 +1,4 @@
-# Welcome to My GitHub Profile  
-### **Aun Mohammad Kidwai**
+## **Aun Mohammad Kidwai**
 Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solution Architect
 
 ---
