@@ -2,10 +2,6 @@
 ### **Aun Mohammad Kidwai**
 Data Scientist | AI/ML Specialist | Researcher | AI Technical Consultants | Solution Architect
 
-[![GitHub followers](https://img.shields.io/github/followers/aunkidwai?label=Follow&style=social)](https://github.com/aunkidwai/?tab=follow) ![Profile Views](https://komarev.com/ghpvc/?username=aunkidwai&color=yellow)
-
-![Location](https://img.shields.io/badge/Location-Lucknow_|_Noida,_India-lightblue)
-
 ---
 
 ## About Me  
@@ -89,6 +85,8 @@ I’m always open to collaboration and discussion on AI, data science, or innova
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aunkidwai/)
 - [![Website](https://img.shields.io/badge/Website-https://aunkidwai.com-brightgreen)](https://aunkidwai.com)
 - [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@aunkidwai)
+
+- ![Location](https://img.shields.io/badge/Location-Lucknow_|_Noida,_India-lightblue)
 
 ---
 
