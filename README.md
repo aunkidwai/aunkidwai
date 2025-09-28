@@ -84,39 +84,39 @@ A versatile AI and data science professional with experience spanning R&D leader
 
 ## Projects
 
-**Projects SortingHat AI,** 
-_Resume Parsing and Personalization System_
+**Projects SortingHat AI,** _Resume Parsing and Personalization System_
+
 Designed a multi-modal RAG to parse and personalize resumes for applicants. Streamlined resume creation by providing step-by-step guidance and tailored job application recommendations.
 
 - Enhanced recruiter workflows with bulk resume sorting based on job descriptions, improving matching accuracy and efficiency.
 - Technologies Used: Hugging Face, LangChain, LLAMA, Python. Hosting: Deployed live on Hugging Face for seamless accessibility.
 
-**PredictiveTrade,** 
-_Financial Time Series Analysis for Stock Price Prediction_
+**PredictiveTrade,** _Financial Time Series Analysis for Stock Price Prediction_
+
 Built a machine learning pipeline for time series forecasting to predict stock price movements and market trends, aiding data-driven investment strategies.
 - Leveraged ML models (Gradient Boosting) andt raditional methods (ARIMA, LSTM, Prophet) to improve forecasting accuracy.
 - Engineered advanced features such as sentiment analysis from financial news to enrich the dataset.
 - Validated predictions through cross-validation and backtesting, achieving a MAPE of less than 5%.
 - Technologies Used: Python, TensorFlow, Scikit-learn, Keras, and Pandas. Hosting: Deployed live on Hugging Face.
 
-**DataGenie,** 
-_Automated data preprocessing and feature engineering pipeline_
+**DataGenie,** _Automated data preprocessing and feature engineering pipeline_
+
 Developed an automated data preprocessing and feature engineering pipeline to streamline dataset preparation for ML workflows.
 - Designed modular preprocessing steps, including data imputation, outlier detection, and data normalization.
 - Automated feature engineering tasks like encoding categorical variables and scaling for model compatibility.
 - Reduced dataset preparation time by 50%, enhancing efficiency for data science teams.
 - Technologies Used: Python, Pandas, NumPy, Scikit-learn, and Flask. Hosting: Deployed live on Hugging Face.
 
-**DataFlow Automator,** 
-_Automated ETL (Extract, Transform, Load) pipeline_
+**DataFlow Automator,** _Automated ETL (Extract, Transform, Load) pipeline_
+
 Developed an automated ETL pipeline to process and integrate data from multiple sources into analytics-ready datasets.
 - Designed a modular pipeline to handle data ingestion from APIs, databases, and flat files, ensuring integration and scalability.
 - Implemented a data cleaning and transformation processes, including handling missing values, deduplication, and normalization.
 - Automated daily batch processing using Cron Jobs, reducing manual work and data preparation time by 60%.
 - Technologies Used: Python, Pandas, NumPy, SQL, and Flask.
 
-**MedAnalytics Dashboard,** 
-_Interactive Analytics Dashboard to Assist Healthcare Administrators_
+**MedAnalytics Dashboard,** _Interactive Analytics Dashboard to Assist Healthcare Administrators_
+
 Designed an interactive analytics dashboard to assist healthcare administrators in visualizing key metrics such as patient demographics, treatment outcomes, and hospital resource utilization.
 - Integrated real-time data from multiple sources, including patient records and hospital systems, to ensure up-to-date insights.
 - Utilized Power BI for extensive data cleaning and transformation, ensuring data accuracy and consistency.
@@ -124,8 +124,8 @@ Designed an interactive analytics dashboard to assist healthcare administrators 
 - Enabled administrators to identify bottlenecks in resource allocation and optimize operational efficiency.
 - Technologies Used: Tableau, Power BI, Python (for preprocessing), and SQL.
 
-**UniParse AI,** 
-_Advanced SQL Query Parsing_
+**UniParse AI,** _Advanced SQL Query Parsing_
+
 - Enhanced Mozillaʼs open-source SQL parser by integrating advanced AI capabilities for query parsing and manipulation.
 - UniParse AI is a sophisticated parsing library to improve SQL query processing and NoSQL databases (future plan).
 - Technologies Used: Python, SQL, TensorFlow, Mozillaʼs SQL Parser Framework.
